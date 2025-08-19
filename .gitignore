@@ -1,0 +1,9 @@
+# General OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Visual Studio / SSDT / SSRS caches (if you add .rdl later)
+*.user
+*.suo
+*.cache
+*.rdl.data
